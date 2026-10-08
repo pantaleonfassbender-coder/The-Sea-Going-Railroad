@@ -15,15 +15,17 @@
    "kurz": "2. Arches or fill: how the line was built, 1905–1912",
    "zk": "Arches",
    "warum": "No contractor would bid, so the railway built the line itself with a floating plant: stone from New York, gravel from Mobile, cement from Germany and New Jersey, water from the Everglades. Carver (1906) and Venable (1907) on the concrete arches, the quarter boats of 150 men each and the piers that stood through the storm of 1906; Thacher (1911) on the fills between the keys, of which 'a single storm would wash away the work of weeks', and on the 2.52 gallons of water a man used per day; Patterson (1912) on rust, scaling concrete and a bridge built without the loss of a life."
+  },
+  {
+   "id": "storm1906",
+   "datei": "storm1906",
+   "side": "weather",
+   "kurz": "3. The quarterboats and the storm of October 1906",
+   "zk": "Storm 1906",
+   "warum": "The warning ordered at Key West before noon on 17 October, the houseboats torn from their moorings at Long Key in the night, and the survivors' account of houseboat No. 4 (Associated Press, 22 October). Then the counting: 'probably more than 100', 'about 135' and 124 in one article of the Monthly Weather Review, 146 missing in the railway's own despatch, 'over 70' in the railway press of 1912 and 'many hundreds' in the Weather Bureau's report of 1909. Two comparisons set the figures and the question of the warnings side by side."
   }
  ],
  "planned": [
-  {
-   "id": "storm1906",
-   "side": "weather",
-   "kurz": "3. The quarterboats and the storm of October 1906",
-   "warum": "The men lived on quarterboats moored behind the keys. The Monthly Weather Review of October 1906 reports the storm from Key West, Jupiter and Jacksonville and gives three different figures for the dead; the press and the railway's engineers give others. What the warnings said, and who heeded them."
-  },
   {
    "id": "labour",
    "side": "labour",

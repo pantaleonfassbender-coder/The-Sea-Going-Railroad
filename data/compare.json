@@ -1,4 +1,65 @@
 {
  "lede": "The same events in the Weather Bureau's reports, the engineering press, the company's statements, the investigations and the hearings. Each column opens its passage.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "dead1906",
+   "titel": "How many died in October 1906?",
+   "frage": "More than 100, about 135, 124, 146 missing, over 70, or many hundreds?",
+   "note": "The figures come from the Weather Bureau's offices at Key West, Jupiter and Jacksonville in the same article of 1906, from the railway's vice-president four days after the storm, from the railway trade press in 1912 and from the Weather Bureau's Jacksonville observer in 1909. They count different things (the dead, the missing, the men of one boat or of all), at different times, for different readers. No list of names has been found. The apparatus gives each figure and does not choose.",
+   "voices": [
+    {
+     "text": "storm1906",
+     "sec": "count",
+     "n": [
+      9,
+      12
+     ]
+    },
+    {
+     "text": "storm1906",
+     "sec": "count",
+     "n": [
+      10
+     ]
+    },
+    {
+     "text": "storm1906",
+     "sec": "count",
+     "n": [
+      13,
+      14
+     ]
+    }
+   ]
+  },
+  {
+   "id": "blame1906",
+   "titel": "Who ignored the warnings?",
+   "frage": "The master of the St. Lucie, the men on the houseboats, or the railway?",
+   "note": "In 1906 the Weather Bureau's Jacksonville observer stressed that the warnings were ample and that the master of the St. Lucie had sailed without consulting the railway. In 1909 the same observer wrote that in 1906 'many hundreds' had drowned 'as a consequence of ignoring warnings'. The railway's account of 1912 says the warnings were not given much attention except where the two chief engineers could see to it themselves. None of them says who decided that the men should stay on the boats.",
+   "voices": [
+    {
+     "text": "storm1906",
+     "sec": "warning",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "storm1906",
+     "sec": "warning",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "storm1906",
+     "sec": "count",
+     "n": [
+      14
+     ]
+    }
+   ]
+  }
+ ]
 }

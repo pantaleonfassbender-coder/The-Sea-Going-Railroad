@@ -29,11 +29,14 @@
    "plate": "quarterboat1912"
   },
   {
-   "d": "October 1906",
+   "d": "17–18 October 1906",
    "side": "weather",
    "titel": "The quarterboats are carried out to sea",
-   "text": "A hurricane tears the workers' quarterboats from their moorings. The Weather Bureau's offices report the dead as 'probably more than 100', 'about 135' and '124'; forty-nine men are picked up by the Austrian steamer Jenny. On the Long Key viaduct all cofferdams and falsework are demolished; the piers stand.",
-   "src": "Monthly Weather Review 34 (October 1906), pp. 479–480; Venable, Engineering Record 56 (1907), p. 558"
+   "text": "A hurricane tears the workers' quarterboats from their moorings at Long Key. The Weather Bureau's offices report the dead as 'probably more than 100', 'about 135' and '124'; the railway's vice-president counts 146 missing. On the Long Key viaduct all cofferdams and falsework are demolished; the piers stand.",
+   "src": "Monthly Weather Review 34 (October 1906), pp. 479–480; Engineering News 56 (1906), p. 442; Venable, Engineering Record 56 (1907), p. 558",
+   "cite": "#/text/storm1906/count/9",
+   "citeLabel": "Count [9]",
+   "plate": "foremenboat1906"
   },
   {
    "d": "April 1907",
