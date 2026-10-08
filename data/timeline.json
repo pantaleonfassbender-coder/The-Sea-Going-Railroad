@@ -144,23 +144,38 @@
    "d": "2 September 1935",
    "side": "weather",
    "titel": "The Labor Day hurricane",
-   "text": "The hurricane crosses the Upper Keys. A train of eleven cars sent from Miami to bring out the veterans is washed from the track; the Red Cross puts the dead at 409, of whom 244 known dead and 165 missing.",
-   "src": "W. F. McDonald, Monthly Weather Review 63 (September 1935), pp. 269–271",
-   "plate": "weather1935"
+   "text": "The hurricane crosses the Upper Keys and destroys three relief camps of war veterans. The train ordered at 2 p.m. leaves Miami at 4:25 and is swept from the track at Islamorada; only the engine stands. The Red Cross estimates 409 dead and missing; by March 1936, 485 bodies are recovered, 257 of them veterans.",
+   "src": "Monthly Weather Review 63 (1935), pp. 269–270; Hearings on H.R. 9486 (1936), pp. 332, 504",
+   "plate": "reliefmap1936",
+   "cite": "#/text/act/train/12",
+   "citeLabel": "Train [12]"
+  },
+  {
+   "d": "8 September 1935",
+   "side": "state",
+   "titel": "\"An act of God\"",
+   "text": "Aubrey W. Williams and Col. George E. Ijams report to President Roosevelt that responsibility for the disaster 'does not lie with any of the human factors concerned' and that it 'must be characterized \"as an act of God\"'.",
+   "src": "Hearings on H.R. 9486 (1936), pp. 440–441",
+   "cite": "#/text/act/report/17",
+   "citeLabel": "Report [17]"
   },
   {
    "d": "26 September 1936",
    "side": "state",
    "titel": "Abandonment",
    "text": "The Interstate Commerce Commission permits the railway to abandon the line south of Florida City. Rebuilding is judged not practicable.",
-   "src": "Interstate Commerce Commission, 217 I.C.C. 325 (1936)"
+   "src": "Interstate Commerce Commission, 217 I.C.C. 325 (1936)",
+   "cite": "#/text/act/end/20",
+   "citeLabel": "End [20]"
   },
   {
    "d": "1938",
    "side": "keys",
    "titel": "A highway over the sea",
    "text": "The State has bought the right of way and the bridges for $640,000 out of a federal loan of $3,500,000. Concrete road bridges are built 'on the piers of the old railroad bridges'.",
-   "src": "C. R. Vinten, The Regional Review (National Park Service) 1 (July 1938)"
+   "src": "C. R. Vinten, The Regional Review (National Park Service) 1 (July 1938)",
+   "cite": "#/text/act/end/23",
+   "citeLabel": "End [23]"
   }
  ]
 }

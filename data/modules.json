@@ -47,21 +47,22 @@
    "kurz": "6. Running at a loss, 1912–1935",
    "zk": "Loss",
    "warum": "'Will it pay?' asked the railway press in 1912: two passenger and three freight trains a day, the shortest haul to Cuba and the canal, and a railway owned by one man (Patterson). What the Interstate Commerce Commission recorded in 1936: a line built for Cuba, a car ferry from 1915, a cost of $27,984,675, local traffic that 'never was important', 12,831 people in Key West in 1930, one passenger train a day, and deficits in every year from 1930 to 1935. And the railway's default and receivership from 1 September 1931. A comparison sets Flagler's promise against the figures."
-  }
- ],
- "planned": [
+  },
   {
    "id": "act",
+   "datei": "act",
    "side": "state",
    "kurz": "7. 2 September 1935: the veterans, the train, and 'an act of God'",
-   "warum": "The Weather Bureau's warnings and its report, the veterans' relief camps on the keys, the train sent from Miami and swept from the track at Islamorada, the report to the President and the hearings of 1936 with their competing counts of the dead. And the end: the abandonment of the line, its sale to the State, and the Overseas Highway of 1938 on the railroad's piers."
+   "zk": "1935",
+   "warum": "The hurricane on the Upper Keys in the Weather Bureau's report and its observer's log at Long Key. Why the veterans' relief camps were on the keys at all ('the cost of maintaining men in a camp is smaller … where it is warm'). The train: asked for in May with twelve hours' notice, conditions about where the men might go, ordered at 2 p.m. on Labor Day, left Miami at 4:25 and was swept from the track at Islamorada. The report to the President of 8 September 1935, which found that responsibility lay with none of the human factors and called the catastrophe 'an act of God'. The counts of the dead. And the end: embankments limited to five feet, rebuilding 'not practicable', the line sold for $640,000, and a highway on the railroad's piers in 1938. Two comparisons."
   }
  ],
+ "planned": [],
  "missing": [
   {
    "side": "state",
    "kurz": "Photographs of the dead, 1935",
-   "warum": "Photographs taken by the investigators of the Veterans Administration show the dead and their cremation on the keys. They are federal records and in the public domain; this apparatus does not show them. The map of the burial and cremation sites printed by the Government Printing Office in 1936 may be shown in module 7.",
+   "warum": "Photographs taken by the investigators of the Veterans Administration show the dead and their cremation on the keys. They are federal records and in the public domain; this apparatus does not show them. The map of the burial and cremation sites printed by the Government Printing Office in 1936, which names the dead, is shown among the plates.",
    "quelle": "National Archives, Record Group 15, Investigative Files Regarding the Labor Day Hurricane of 1935 (NAID 1661966)."
   },
   {

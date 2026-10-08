@@ -121,6 +121,65 @@
      ]
     }
    ]
+  },
+  {
+   "id": "blame1935",
+   "titel": "Could the men have been saved?",
+   "frage": "'An act of God', a train that would have had to leave at 10 a.m., or a question nobody answered?",
+   "note": "The report to the President found that responsibility lay with none of the human factors and called the disaster an act of God. The railway's co-receiver wrote that the men could have been saved only if the train had left Miami about 10 a.m., four hours before it was requested. In the hearings Representative Rogers asked why men had been sent to a place known for hurricanes; the answer began with the cost of heating.",
+   "voices": [
+    {
+     "text": "act",
+     "sec": "report",
+     "n": [
+      17
+     ]
+    },
+    {
+     "text": "act",
+     "sec": "train",
+     "n": [
+      13
+     ]
+    },
+    {
+     "text": "act",
+     "sec": "camps",
+     "n": [
+      5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dead1935",
+   "titel": "How many died on 2 September 1935?",
+   "frage": "684 veterans counted, 409 dead and missing, or 485 bodies recovered?",
+   "note": "Six days after the storm the report to the President counted the veterans: 44 identified dead and 238 missing or unidentified among 684. The Weather Bureau printed the Red Cross estimate of 409 dead and missing. By March 1936 the Florida relief administration had recovered 485 bodies, 257 of them veterans; for the civilians, it said, no accurate figure of the missing could be had.",
+   "voices": [
+    {
+     "text": "act",
+     "sec": "dead",
+     "n": [
+      18
+     ]
+    },
+    {
+     "text": "act",
+     "sec": "storm",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "act",
+     "sec": "dead",
+     "n": [
+      19
+     ]
+    }
+   ]
   }
  ]
 }
