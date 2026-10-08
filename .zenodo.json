@@ -1,0 +1,40 @@
+{
+  "upload_type": "dataset",
+  "title": "The Sea-Going Railroad: A Documentary Apparatus. Flagler's line to Key West, 1904–1938, and who carried the risk",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the Florida East Coast Railway's extension across the Florida Keys to Key West: its building from 1905 to 1912, the hurricanes of 1906, 1909 and 1910, the recruiting of its labour and the peonage trial of 1908, its years of running at a loss, the Labor Day hurricane of 2 September 1935, and the Overseas Highway built on its piers in 1938. Its question is who carried the risk of the work: the men on the quarterboats, the recruits whose fare was deducted from their wages, the company that never made the line pay, and the war veterans in the relief camps on the keys in 1935.</p><p>Stage 1: seven modules with 133 passages, each read against the page image of a public-domain printing. (1) The plan and the first year, 1904&ndash;1906: Scientific American (1905), The Railroad Gazette (1905; Harry C. Smith 1906), the railway's booklet for the opening (1912). (2) Arches or fill: Carver and Venable in The Engineering Record (1906, 1907), Thacher to the Engineering Association of the South (1911), Patterson in the Railway Age Gazette (1912). (3) The quarterboats and the storm of October 1906: the Monthly Weather Review (1906, 1909), Engineering News with J. R. Parrott's despatch, the Associated Press in the Morning Oregonian. (4) Recruited in New York: wages and deductions, the chain gang, the peonage trial of November 1908 (Associated Press) and the Reports of the Immigration Commission (1911). (5) 1909, 1910, and the opening at Key West on 22 January 1912: the Monthly Weather Review, The Engineering Record (1910), Patterson, and Chester C. Pope's 'The Sea-Going Railroad' (1912). (6) Running at a loss, 1912&ndash;1935: Patterson's 'Will it pay?' and the Interstate Commerce Commission (1936, 1939). (7) 2 September 1935: the Monthly Weather Review (1935); the House hearings Florida Hurricane Disaster (1936), with the report to the President of 8 September 1935 that called the catastrophe 'an act of God', the railway's letters and statements on the rescue train, and the count of the dead; the Interstate Commerce Commission (1936); the National Park Service (1938).</p><p>Figures are given as each source gives them; where the sources disagree (on the dead of 1906 and 1935, the size of the workforce, the cost), the apparatus says so and does not choose. With six comparisons setting the sources side by side, a timeline of nineteen stations linked into the texts, fifteen public-domain plates, and a list of what is not carried and why. Photographs of the dead of 1935 are not shown.</p><p>Companion game: <em>An Act of God</em> (in preparation, https://an-act-of-god.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions of public-domain texts CC0 1.0; plates public domain &mdash; see LICENSES.md. Live site: https://the-sea-going-railroad.netlify.app/</p>",
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "Florida East Coast Railway",
+    "Overseas Railroad",
+    "Key West Extension",
+    "Henry M. Flagler",
+    "Florida Keys",
+    "hurricanes",
+    "Labor Day hurricane 1935",
+    "peonage",
+    "construction labor",
+    "World War veterans",
+    "railroad history",
+    "Interstate Commerce Commission",
+    "digital humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://the-sea-going-railroad.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://an-act-of-god.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

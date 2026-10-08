@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "The Sea-Going Railroad: A Documentary Apparatus"
+message: "If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Sea-Going-Railroad"
+url: "https://the-sea-going-railroad.netlify.app/"
+abstract: >-
+  A documentary apparatus for the Florida East Coast Railway's extension
+  across the Florida Keys to Key West, 1904–1938, asking who carried the risk
+  of the work: seven modules with 133 passages, each read against the page
+  image of a public-domain printing. The engineering and railway press
+  (Scientific American, The Railroad Gazette, The Engineering Record,
+  Engineering News, the Railway Age Gazette, 1905–1912); the railway's
+  booklet for the opening (1912); the Monthly Weather Review on the
+  hurricanes of 1906, 1909, 1910 and 1935; the Associated Press on the storm
+  of 1906 and the peonage trial of 1908; the Reports of the Immigration
+  Commission (1911); the House hearings Florida Hurricane Disaster (1936),
+  with the report to the President that called the catastrophe of 1935 "an
+  act of God"; the Interstate Commerce Commission (1936, 1939); and the
+  National Park Service (1938). With six comparisons, a timeline, fifteen
+  public-domain plates, and a list of what is not carried and why. Companion
+  game: An Act of God.
+keywords:
+  - Florida East Coast Railway
+  - Overseas Railroad
+  - Henry M. Flagler
+  - Florida Keys
+  - hurricanes
+  - Labor Day hurricane 1935
+  - peonage
+  - World War veterans
+  - railroad history
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-08
