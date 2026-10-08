@@ -1,0 +1,67 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "plan",
+   "side": "company",
+   "kurz": "1. The plan and the line, 1904–1905",
+   "warum": "Why Key West, and how: the company's own account of 1912, the chief constructing engineer Joseph C. Meredith from 22 July 1904, the work begun in April 1905, the route of 128.4 miles from Homestead with 17.2 miles of bridges. The engineering press of 1905 and 1906 on the plan."
+  },
+  {
+   "id": "arches",
+   "side": "company",
+   "kurz": "2. Arches or fill: how the line was built",
+   "warum": "The concrete viaducts and the steel spans, German cement for the work below high tide, floating equipment instead of contractors, fresh water brought by barge and tank car at about two and a half gallons per man per day. Carver and Venable in the Engineering Record (1906, 1907), Carver in Engineering News (1907), Thacher (1911)."
+  },
+  {
+   "id": "storm1906",
+   "side": "weather",
+   "kurz": "3. The quarterboats and the storm of October 1906",
+   "warum": "The men lived on quarterboats moored behind the keys. The Monthly Weather Review of October 1906 reports the storm from Key West, Jupiter and Jacksonville and gives three different figures for the dead; the press and the railway's engineers give others. What the warnings said, and who heeded them."
+  },
+  {
+   "id": "labour",
+   "side": "labour",
+   "kurz": "4. Recruited in New York: wages, deductions, the chain gang and the peonage trial",
+   "warum": "Labour agents paid by the head, the fare deducted from the first month's wages, a quarter of the recruits lost on the way, the company hospital at Miami paid for by the men's return fares. Spooner in the Railroad Gazette (1907), the trial in the federal court in New York (1908) and its acquittal, the Immigration Commission's visit to every camp in 1909, and the chain gang that the company said explained the stories."
+  },
+  {
+   "id": "storms1909",
+   "side": "weather",
+   "kurz": "5. 1909, 1910, and Key West, 22 January 1912",
+   "warum": "The hurricane of 11 October 1909 on the Knight's Key bridge, the storm of 1910, the death of Meredith and the decision to build more miles of arches instead of fill. The opening: Flagler's train in Key West, the celebrations, and what the company said the line had cost."
+  },
+  {
+   "id": "loss",
+   "side": "keys",
+   "kurz": "6. Running at a loss, 1912–1935",
+   "warum": "One passenger train a day, a freight twice a week, the car ferry to Havana, and the figures the Interstate Commerce Commission set down in 1936: falling traffic, yearly deficits, damage from four hurricanes in twenty-three years, and the railway's default and receivership from 1931."
+  },
+  {
+   "id": "act",
+   "side": "state",
+   "kurz": "7. 2 September 1935: the veterans, the train, and 'an act of God'",
+   "warum": "The Weather Bureau's warnings and its report, the veterans' relief camps on the keys, the train sent from Miami and swept from the track at Islamorada, the report to the President and the hearings of 1936 with their competing counts of the dead. And the end: the abandonment of the line, its sale to the State, and the Overseas Highway of 1938 on the railroad's piers."
+  }
+ ],
+ "missing": [
+  {
+   "side": "state",
+   "kurz": "Photographs of the dead, 1935",
+   "warum": "Photographs taken by the investigators of the Veterans Administration show the dead and their cremation on the keys. They are federal records and in the public domain; this apparatus does not show them. The map of the burial and cremation sites printed by the Government Printing Office in 1936 may be shown in module 7.",
+   "quelle": "National Archives, Record Group 15, Investigative Files Regarding the Labor Day Hurricane of 1935 (NAID 1661966)."
+  },
+  {
+   "side": "state",
+   "kurz": "Later accounts in copyright",
+   "warum": "Ernest Hemingway's article on the deaths of the veterans (1935) and the modern histories of the railroad and the hurricane are named where they matter, not quoted.",
+   "quelle": "Hemingway, 'Who Murdered the Vets?', New Masses, 17 September 1935; modern histories of the railroad."
+  },
+  {
+   "side": "labour",
+   "kurz": "Newspapers and photographs not yet read",
+   "warum": "The national newspaper archive, the Library of Congress and the State Archives of Florida could not be reached from here. Their newspaper reports of the trial of 1908, their photographs of the workers and their rights statements will be read by hand before anything from them is carried.",
+   "quelle": "Chronicling America (Library of Congress); Florida Memory (State Archives of Florida)."
+  }
+ ]
+}

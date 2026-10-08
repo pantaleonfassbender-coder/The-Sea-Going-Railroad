@@ -1,0 +1,91 @@
+{
+ "lede": "From the appointment of the chief engineer to the Overseas Highway. Until the modules are carried, each station names the source it rests on; figures are given as that source gives them.",
+ "stations": [
+  {
+   "d": "22 July 1904",
+   "side": "company",
+   "titel": "A chief constructing engineer",
+   "text": "Joseph Carroll Meredith takes up his duty as chief constructing engineer of the extension. Work on the keys begins in April 1905 under his charge.",
+   "src": "Florida East Coast Railway, Key West Extension … opened January 22, 1912 (1912)"
+  },
+  {
+   "d": "October 1906",
+   "side": "weather",
+   "titel": "The quarterboats are carried out to sea",
+   "text": "A hurricane tears the workers' quarterboats from their moorings. The Weather Bureau's offices report the dead as 'probably more than 100', 'about 135' and '124'; forty-nine men are picked up by the Austrian steamer Jenny.",
+   "src": "Monthly Weather Review 34 (October 1906), pp. 479–480"
+  },
+  {
+   "d": "April 1907",
+   "side": "labour",
+   "titel": "2,800 men on the keys",
+   "text": "About 2,800 labourers are at work, four-fifths of them white. They are recruited in New York, Philadelphia and Boston; the fare south is deducted from their wages, and about one in four deserts on the way.",
+   "src": "F. E. Spooner, Railroad Gazette 42 (26 April 1907)"
+  },
+  {
+   "d": "November 1908",
+   "side": "state",
+   "titel": "The peonage trial",
+   "text": "Labour agents and engineers of the line are tried in the federal court at New York on charges of peonage. The trial ends in acquittal.",
+   "src": "Railway Age Gazette 52 (10 May 1912), p. 1041; Associated Press, 13 November 1908"
+  },
+  {
+   "d": "1909",
+   "side": "state",
+   "titel": "The Immigration Commission in the camps",
+   "text": "A member of the federal Immigration Commission visits every camp. The Commission finds 'some coercion' in the early days and foremen dismissed for it, but no legal proof of peonage.",
+   "src": "Reports of the Immigration Commission, Abstracts, vol. 2 (1911), pp. 445–446"
+  },
+  {
+   "d": "20 April 1909",
+   "side": "company",
+   "titel": "Meredith dies",
+   "text": "The chief constructing engineer dies on duty. William J. Krome completes the work.",
+   "src": "Key West Extension … opened January 22, 1912 (1912)"
+  },
+  {
+   "d": "11 October 1909",
+   "side": "weather",
+   "titel": "The storm at Knight's Key",
+   "text": "A hurricane strikes the steel bridge under construction at Knight's Key; spans are blown from their piers. The company afterwards decides to build more miles of concrete arches in place of fill.",
+   "src": "Engineering Record 61 (2 April 1910); Railway Age Gazette 52 (1912)"
+  },
+  {
+   "d": "22 January 1912",
+   "side": "keys",
+   "titel": "The first train at Key West",
+   "text": "Flagler's train arrives at Key West over the sea. The line from Homestead is 128.4 miles long, with 17.2 miles of bridges.",
+   "src": "Key West Extension … opened January 22, 1912 (1912)",
+   "plate": "arrival1912"
+  },
+  {
+   "d": "1 September 1931",
+   "side": "company",
+   "titel": "Default and receivership",
+   "text": "The Florida East Coast Railway defaults on the interest of its second mortgage and passes into the hands of receivers.",
+   "src": "Interstate Commerce Commission, 235 I.C.C. 211 (1939)"
+  },
+  {
+   "d": "2 September 1935",
+   "side": "weather",
+   "titel": "The Labor Day hurricane",
+   "text": "The hurricane crosses the Upper Keys. A train of eleven cars sent from Miami to bring out the veterans is washed from the track; the Red Cross puts the dead at 409, of whom 244 known dead and 165 missing.",
+   "src": "W. F. McDonald, Monthly Weather Review 63 (September 1935), pp. 269–271",
+   "plate": "weather1935"
+  },
+  {
+   "d": "26 September 1936",
+   "side": "state",
+   "titel": "Abandonment",
+   "text": "The Interstate Commerce Commission permits the railway to abandon the line south of Florida City. Rebuilding is judged not practicable.",
+   "src": "Interstate Commerce Commission, 217 I.C.C. 325 (1936)"
+  },
+  {
+   "d": "1938",
+   "side": "keys",
+   "titel": "A highway over the sea",
+   "text": "The State has bought the right of way and the bridges for $640,000 out of a federal loan of $3,500,000. Concrete road bridges are built 'on the piers of the old railroad bridges'.",
+   "src": "C. R. Vinten, The Regional Review (National Park Service) 1 (July 1938)"
+  }
+ ]
+}

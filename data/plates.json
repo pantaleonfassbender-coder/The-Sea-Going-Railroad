@@ -1,0 +1,54 @@
+{
+ "credit": "Plates: public-domain images from Wikimedia Commons (the licence checked on each file page) and from the U.S. Geological Survey's photographic library (a federal work in the public domain), each named in its caption with the original. Resized for this site.",
+ "plates": [
+  {
+   "id": "vaughan1908",
+   "titel": "The arches on Long Key, 1908",
+   "side": "company",
+   "caption": "Photograph by the geologist T. Wayland Vaughan of the U.S. Geological Survey, 1908: arches of the Long Key viaduct standing in open water, the year the line reached Knight's Key. The viaduct had about 180 arches of fifty feet.",
+   "source": "U.S. Geological Survey Photographic Library, vtw00253, ScienceBase item 51ddc69be4b0f72b4472100b (https://www.sciencebase.gov/catalog/item/51ddc69be4b0f72b4472100b); U.S. public domain"
+  },
+  {
+   "id": "flagler1909",
+   "titel": "Flagler's special on the Long Key viaduct",
+   "side": "company",
+   "caption": "'H.M. Flagler's Special, first train crossing Long Key Viaduct, 2.7 miles long.' Photograph by John N. Chamberlain, 1909 (Library of Congress). The line reached Knight's Key in February 1908; Key West only in 1912.",
+   "source": "Wikimedia Commons, File:H.M. Flagler's Special, first train crossing Long Key Viaduct, 2.7 miles long, Long Key, Fla. LCCN2005694817.jpg (https://commons.wikimedia.org/wiki/File:H.M._Flagler%27s_Special,_first_train_crossing_Long_Key_Viaduct,_2.7_miles_long,_Long_Key,_Fla._LCCN2005694817.jpg)"
+  },
+  {
+   "id": "arch1914",
+   "titel": "Building an arch",
+   "side": "labour",
+   "caption": "From The New Student's Reference Work (1914): falsework and forms for one of the concrete arches. The engineering press counted some five hundred arches over about six miles.",
+   "source": "Wikimedia Commons, File:NSRW Florida Keys Railroad - building arch.jpg (https://commons.wikimedia.org/wiki/File:NSRW_Florida_Keys_Railroad_-_building_arch.jpg)"
+  },
+  {
+   "id": "pier1914",
+   "titel": "Building a pier",
+   "side": "labour",
+   "caption": "From The New Student's Reference Work (1914): a reinforced concrete pier in its cofferdam, the work that the storms of 1906 and 1909 swept away and that had to be begun again.",
+   "source": "Wikimedia Commons, File:NSRW Florida Keys Railroad - building pier.jpg (https://commons.wikimedia.org/wiki/File:NSRW_Florida_Keys_Railroad_-_building_pier.jpg)"
+  },
+  {
+   "id": "arrival1912",
+   "titel": "The first train at Key West, 22 January 1912",
+   "side": "keys",
+   "caption": "'Arrival of first train at Key West, Fla., over sea, Florida East Coast R. R., Jan. 22, 1912': panoramic photograph, Library of Congress, cut from its mount. The company's booklet of the same year puts the line at 128.4 miles from Homestead.",
+   "source": "Wikimedia Commons, File:Arrival of first train at Key West, Fla., over sea, Florida East Coast R. R., Jan. 22, (19)12 LCCN2007660721.tif (https://commons.wikimedia.org/wiki/File:Arrival_of_first_train_at_Key_West,_Fla.,_over_sea,_Florida_East_Coast_R._R.,_Jan._22,_(19)12_LCCN2007660721.tif)"
+  },
+  {
+   "id": "flaglerparty1912",
+   "titel": "Flagler and his party leave the first train",
+   "side": "company",
+   "caption": "'Mr. H. M. Flagler and party leaving first train to arrive at Key West': panoramic photograph, 22 January 1912, Library of Congress, cut from its mount. Flagler was eighty-two; he died the next year.",
+   "source": "Wikimedia Commons, File:Mr. H. M. Flagler and party leaving first train to arrive at Key West, Fla. Oversea Florida East Coast R. R LCCN2007660733.tif (https://commons.wikimedia.org/wiki/File:Mr._H._M._Flagler_and_party_leaving_first_train_to_arrive_at_Key_West,_Fla._Oversea_Florida_East_Coast_R._R_LCCN2007660733.tif)"
+  },
+  {
+   "id": "weather1935",
+   "titel": "The Weather Bureau's map, 2 September 1935",
+   "side": "weather",
+   "caption": "Surface weather analysis for 2 September 1935, from the Monthly Weather Review, then published by the U.S. Weather Bureau: the storm as a closed low off the Florida Keys on the day it crossed them. A federal work.",
+   "source": "Wikimedia Commons, File:Labor Day hurricane weather analysis (Enlarged), Sep 2, 1935.jpg (https://commons.wikimedia.org/wiki/File:Labor_Day_hurricane_weather_analysis_(Enlarged),_Sep_2,_1935.jpg)"
+  }
+ ]
+}
