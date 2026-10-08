@@ -1,0 +1,210 @@
+{
+ "titel": "Arches or fill: how the line was built, 1905–1912",
+ "autor": "George P. Carver and William Mayo Venable in The Engineering Record (1906, 1907); L. M. Thacher to the Engineering Association of the South (1911); Frank M. Patterson in the Railway Age Gazette (1912)",
+ "jahr": "1906–1912",
+ "quelle": "George P. Carver, \"Concrete Viaducts on the Key West Extension of the Florida East Coast Ry.,\" The Engineering Record 54:16 (20 Oct. 1906), p. 424 (archive.org engineering-record_1906-10-20_54_16); Wm. Mayo Venable, \"The Long Key Viaduct,\" The Engineering Record 56:21 (23 Nov. 1907), pp. 558–560 (archive.org engineering-record_1907-11-23_56_21); L. M. Thacher, \"Key West Extension of the F. E. C. Ry.,\" Engineering Association of the South, vol. XXII (1911), pp. 68–80 (Google scan, reproduced in https://historicbridges.org/florida/sevenmilebridge/articles.pdf; abstract in Engineering News 66, 21 Sept. 1911, pp. 330–331); Frank M. Patterson, \"The Florida East Coast Extension,\" Railway Age Gazette 52:19 (10 May 1912), pp. 1036–1043 (archive.org sim_railway-age_1912-05-10_52_19). All public domain (published in the United States before 1931).",
+ "hinweis": "Every passage was read against the page image. The text follows the printing, including Thacher's spelling 'Meridith' for Meredith; words broken at the end of a line are joined. All four authors were engineers writing for engineers, three of them employed on the work; they describe the structure and the organisation and mention the men mainly as numbers, a force, or a hazard. Thacher's paper is read in the Association's printed volume, not in the shorter abstract in Engineering News, which a damaged scan makes partly illegible.",
+ "sections": [
+  {
+   "id": "company",
+   "zk": "Company",
+   "titel": "Building without a contractor",
+   "blurb": "No contractor would bid. The railway built the line itself, with its own floating plant, its own organisation and every ton of material and every gallon of water brought from the mainland or from much farther away.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Eng. Assoc. South XXII (1911), p. 71",
+     "titel": "None were willing to submit bids",
+     "en": "Before the work of construction was started, contractors were asked to submit bids, and some of the largest contractors in the country went over the work; but it was so entirely novel, the difficulties so great, that none were willing to submit bids, so it was determined to do the work by day labor.",
+     "note": "Thacher was a resident engineer on the extension; he read his paper to the Engineering Association of the South in April 1911."
+    },
+    {
+     "n": 2,
+     "pg": "Eng. Assoc. South XXII (1911), p. 71",
+     "titel": "Engineers instead of a contractor",
+     "en": "The entire work of construction was under the direction of Mr. J. C. Meridith, with the title of constructing engineer, and headquarters at Miami. At headquarters were located the office engineer, bridge engineer, a corps of designers and draughtsmen, the storekeeper, the head steward, the paymaster, superintendent of docks and boats, and a large force of bookkeepers and clerks. In the field the principal assistant engineer directed the work, using a launch on which he lived, except when at headquarters. The general foreman took the place ordinarily filled by the contractor, and all head foremen, captains of dredges, excavators, pile drivers, etc., were directed by him. One division engineer handled from three to six residencies, and was allowed a launch to cover the work and get from Key to Key. The resident engineers had charge of from five to ten miles of work, usually on one Key, though sometimes two, or a stretch of waterwork between.",
+     "note": "Meredith's name as Thacher's printing spells it."
+    },
+    {
+     "n": 3,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1037",
+     "titel": "Undivided authority",
+     "en": "On account of the conditions under which the construction had to be done and the desirability of having all labor under the undivided authority of the railway none of the work was let by contract, the company assembling equipment and perfecting an organization under the direct supervision of the constructing engineer. From the nature of the work practically all of the outfit used on the original construction was floating equipment and this included a number of Mississippi river steamboats of the stern-wheel type, which proved most efficient for the transportation of material and supplies in the shallower waters, owing to their light draft. All material and supplies, including water for domestic and boiler use, had to be brought from the mainland.",
+     "note": "Patterson gives a second reason beside Thacher's: the railway wanted all labour under its own \"undivided authority\". The recruiting of that labour is module 4."
+    },
+    {
+     "n": 4,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1037",
+     "titel": "German cement below high tide",
+     "en": "Material for concrete was shipped by steamer from northern points, trap rock being brought from the Hudson river, sand from Baltimore and American Portland cement from New York. German Portland cement was used in all concrete below high tide, being delivered by tramp steamers at the nearest available harbor.",
+     "note": "Venable names other sources for the Long Key viaduct alone ([10])."
+    }
+   ]
+  },
+  {
+   "id": "viaducts",
+   "zk": "Viaducts",
+   "titel": "The concrete viaducts, 1906–1907",
+   "blurb": "Two engineers of the line describe the arches for other engineers: George P. Carver in October 1906, when the first piers stood, and William Mayo Venable, division engineer in charge of the Long Key viaduct, in November 1907, when it was nearly done. Between the two lay the hurricane of October 1906.",
+   "units": [
+    {
+     "n": 5,
+     "pg": "Eng. Record 54 (1906), p. 424",
+     "titel": "Five hundred arches",
+     "en": "The concrete construction of the Key West Extension of the Florida East Coast Ry. consists of about 500 reinforced-concrete segmental and semi-circular arches of from 45 to 60 ft. span and has an entire length of about six miles. This distance is divided into four parts, there being a viaduct two miles in length between Long and Conch Keys, known as the Long Key-Conch Key viaduct; a viaduct between Knights Key and Pigeon Key being about 7,800 ft. long and known as Knights Key Channel viaduct; a third structure known as the Moser Channel viaduct, just south of Pigeon Key, is about 7,300 ft. long, and the fourth being known as the Bahia Honda Harbor viaduct, is about 4,950 ft. long, and is composed of 60-ft. arches. Approximately the following quantities of material will be required in the construction of these viaducts: 300,000 barrels of cement, 225,000 cu. yd. of sand, 200,000 cu. yd. of crushed stone and gravel, and about 5,000 tons of steel reinforcing bars.",
+     "note": "The plan changed. Knight's Key and Moser Channel were built largely as steel girder spans on concrete piers and Bahia Honda with steel trusses (Patterson 1912, p. 1039); arches were added elsewhere after the storms of 1909 and 1910, so that the company's booklet of 1912 counts 11.1 miles of arch viaduct (module 1 [25])."
+    },
+    {
+     "n": 6,
+     "pg": "Eng. Record 54 (1906), p. 424",
+     "titel": "Thirty-one feet above the sea",
+     "en": "The arches will be 15 ft. wide at the crown, allowing sufficient width for a single standard-gauge railroad track. The sides will be battered at the rate of 1 in. to the foot of height. The rails of the track carried by the structure will be about 31 ft. above mean low water. The piers will be about 21 ft. long and 7 to 12 ft. in width. Every fifth pier, being considerably wider than the other piers, will be an abutment. The arch rings will be 2 ft. thick at the crown and about 4.5 ft. thick at the top of the pier. The spandrel walls are about 18 in. thick at the top, 3 ft. above the crown of the arch and batter down 1 in. in 12 in. on the outside and 1½ in. in 12 in. on the inside, making the width about 5.5 ft. on top of the pier. There are about nine tons of ⅝ and ¾-in. twisted steel bars in each complete arch."
+    },
+    {
+     "n": 7,
+     "pg": "Eng. Record 54 (1906), p. 424",
+     "titel": "Three quarter boats, 150 men each",
+     "en": "At the present time there are three large quarter boats in the field fitted to accommodate about 150 men each, including engineers and firemen. In addition to this there are two pile drivers and three work barges. Accurate surveys have been made and piles are being driven in the abutment and pier locations, cofferdams are being placed and construction is well under way. There will be about eight complete construction plants put in the field, each comprising a unit. The first plants on the work are used on pier work, and when that work has progressed sufficiently far to allow the concrete in the first piers placed to set, the next plant arriving takes up the arch ring work and carries that work on until the concrete in the first arch rings has set, and the last plants to arrive will commence the spandrel wall work.",
+     "note": "This issue of the Engineering Record is dated 20 October 1906, the week the hurricane carried the quarter boats out to sea; the article was written before the storm (module 3)."
+    },
+    {
+     "n": 8,
+     "pg": "Eng. Record 54 (1906), p. 424",
+     "titel": "A floating concrete plant",
+     "en": "Each working barge is 40 x 70 ft. in plan and 6 ft. 2 in. deep. It is equipped with a large-sized concrete mixer and engine, a 90-h.-p. locomotive type boiler, two derricks fitted with a 50-ft. boom, clam-shell buckets and a large hopper for sand and stone. Each barge is also fitted with a large centrifugal pump for removing water from the cofferdams. The barges are moored alongside of the work to be done, one derrick being used to hoist sand and stone from supply lighters into the hopper on the barge, from which it is dropped through gates into a measured car, which also carries cement. The car is pulled up an incline built above the receiving end of the mixer, and the material is dumped into the latter, from which the concrete is discharged into a bin. The concrete is picked up from this bin and placed in the forms by a clam-shell bucket handled by the other derrick."
+    },
+    {
+     "n": 9,
+     "pg": "Eng. Record 56 (1907), p. 558",
+     "titel": "The spray cuts the face",
+     "en": "The Long Key viaduct is unique. It carries the railroad across an opening between Long Key and Conch Key, where the water varies in depth from 9 to 17 ft., and the tide flows from the Ocean to the Bay or the Bay to the Ocean with a velocity of from four to six miles per hour under ordinary conditions of weather, and with vastly greater velocity during storms or high winds. The velocity under severest conditions is difficult or impossible to compute, for the water from the Bay is actually picked up by the wind when a hurricane visits this region, and carried in the form of spray so swiftly that it cuts the face of a person exposed to it, and a man cannot look against it.",
+     "note": "Venable was division engineer in charge of the viaduct from September 1906."
+    },
+    {
+     "n": 10,
+     "pg": "Eng. Record 56 (1907), p. 558",
+     "titel": "The piers remained intact",
+     "en": "A storm of this character, blowing from the side of the Bay of Florida, occurred during the construction of the viaduct in October, 1906. There were then in place a number of piers, but no arches. All cofferdams and falsework were demolished, but the piers remained intact, justifying their design as capable of resisting the greatest possible attack that can be made upon them from the side of the Bay. From the Southeast, or Ocean side, the exposure is greater, the water being deeper. A liberal allowance has been made for the greatest possible wave that may come across the channel that lies between the keys and the reef, which interposes between the shallower waters about the viaduct and the Atlantic Ocean.",
+     "note": "Of the storm of October 1906 Venable reports what it did to the work. What it did to the men on the quarter boats is module 3."
+    },
+    {
+     "n": 11,
+     "pg": "Eng. Record 56 (1907), p. 558",
+     "titel": "One hundred and eighty arches",
+     "en": "The top of the viaduct is 30 ft. above mean low water. The structure consists of a series of one hundred and eighty concrete arches, heavily reinforced with steel rods, with soffits of semi-circular section. The radius is 25 ft., making the full span 50 ft. from pier to pier, and the height above mean low water 25 ft. Spandrel walls are built on each side of the arch, and rise to a height of 5 ft. above the soffit. Between these walls the space is filled with sand and marl dredged from the vicinity of the viaduct."
+    },
+    {
+     "n": 12,
+     "pg": "Eng. Record 56 (1907), p. 558",
+     "titel": "Stone from New York, cement from Germany",
+     "en": "The situation and the conditions being unique, the methods adopted were likewise peculiar to this work and this locality. It was decided in the first place to conduct the work with a floating equipment, in spite of the obstacles of tide and the possibility of storm during a part of the year. All supplies and materials were of necessity brought to the work by water, and the facilities for storing them as well as using them had to be provided. Most of the supplies were brought to the work from Miami, Fla., a distance of more than eighty miles, by stern-wheel steamboats of the Mississippi River type, a number of which were bought by the company at the inception of the work. Piles and lumber came from the same port. Broken stone was brought in schooners all the way from New York, discharged at Knights' Key dock, constructed for the purpose of receiving such materials at Knights' Key, where boats drawing 19 ft. of water may be unloaded. From the dock the stone was conveyed to the work on barges, towed by the stern-wheel boats, the haul being about twenty miles. A considerable quantity of broken stone was unloaded into the water in a favorable location and reloaded for use later. Gravel for concrete in piers and seals was brought from Mobile; cement from Germany and New Jersey; sand from Bears' Cut, near Miami. Thus a very wide area was tributary to the construction."
+    },
+    {
+     "n": 13,
+     "pg": "Eng. Record 56 (1907), p. 558",
+     "titel": "No breaks or hinges",
+     "en": "As an additional precaution against several of the arches being demolished in case one should be destroyed by any accident, every fifth pier is made thicker than the others. The reinforcing not only joins every pier to the adjacent arches, but it is so disposed as to join all arches and piers in one continuous structure, so that any shock delivered to the viaduct at any one point would be transmitted to a number of piers. There are no breaks or hinges in the structure from one abutment to the other, a distance of about two miles.",
+     "note": "The viaduct stood through the hurricane of 1935 and still stands."
+    },
+    {
+     "n": 14,
+     "pg": "Eng. Record 56 (1907), p. 559",
+     "titel": "Skill and conscientiousness",
+     "en": "The sealing was done through three 8-in. galvanized iron pipes, mounted on a car which ran on a track placed on the cofferdam. Each pipe was provided with a hopper at its upper end, and mounted in such a manner that it could be readily raised and lowered by two men who were charged with that duty, so as to feed the concrete to the bottom without allowing the water to enter the pipe during the process of sealing. This was very hard work, and required skill and conscientiousness on the part of the men. Lack of skill in placing the concrete resulted in inferior sealing, owing to the concrete being deposited in such a way as to wash out a portion of the cement.",
+     "note": "The only place in Venable's article where the labourers' work is described as skilled."
+    }
+   ]
+  },
+  {
+   "id": "fill",
+   "zk": "Fill",
+   "titel": "Rock, fill and dredges",
+   "blurb": "Most of the line was not viaduct but embankment: coral rock blasted and wheeled by hand on the keys, muck and marl pumped by dredges between them. Thacher, a resident engineer, describes how it was built and why the fills in open water were the weak point.",
+   "units": [
+    {
+     "n": 15,
+     "pg": "Eng. Assoc. South XXII (1911), p. 74",
+     "titel": "Hardened like cement",
+     "en": "The grading on the land portion was largely in fill made from borrow pits on the right of way, though in a few places cuts were made. Nearly all of the Keys, however, lay below the established grade line. The larger portion of the borrow was in coral rock, though occasionally sand or shell was found, the sand being merely disintegrated coral rock. A peculiarity of this coral rock was that, though soft when first put in embankment, after a time it hardened like cement and afforded an excellent protection against wash. At one or two camps teams were used, but most of the material was handled with wheelbarrows."
+    },
+    {
+     "n": 16,
+     "pg": "Eng. Assoc. South XXII (1911), p. 75–76",
+     "titel": "A single storm",
+     "en": "The embankments through low and swampy lands were made by clam or orange-peel dredges mounted on lighters, which floated in water in trenches they had dug, the lighter being hauled ahead and made fast with lines from the shore. Between the Keys the water fills were made by suction dredges. Overlying the coral rock at the bottom or under the water is a layer of muck, marl, or shells from 1 to 10 feet in depth, except at the channels, where there was no such accumulation. This was the material pumped by the dredges and conducted by pipes to the desired location. No unusual difficulty was experienced in making these fills, apart from the channel portions, or until the fill approached the surface of the water, when a single storm would wash away the work of weeks and perhaps months. Great difficulty was encountered at the channels or wherever the current was rapid. It is surprising what a swift movement of the water is created where the rise and fall of the tide is seldom over 2 feet and usually not exceeding 1¼ feet. The difficulty encountered in the wash was finally overcome by the use of sheet piling or similar devices. The slope of these embankments was 2 to 1, riprapped to a depth of 36 inches on the seaward side and 12 inches on the bay side.",
+     "note": "The weak point of the line. The storms of 1909 and 1910 swept away fills between the keys and led the company to replace miles of them by arches (module 5); in 1935 it was again the fill that went (module 7)."
+    },
+    {
+     "n": 17,
+     "pg": "Eng. Assoc. South XXII (1911), p. 76",
+     "titel": "Mail once or twice a week",
+     "en": "Some fifteen camps were in operation at one time, each a unit by itself, and handling from 250 to 500 men each, so that the work was progressing on half the Keys at once. As fast as a camp completed its work at one Key it was moved to another. On the grading work some eight steamers composed the fleet, besides any number of launches and small boats, with lighters and barges in great numbers. The steamers were kept busy moving men, transporting supplies for the subsistence of the camp and for the commissaries. To keep 5,000 or 6,000 men moving at the right time and well provisioned was in itself no small job, and the fleet was about the most important part of the work—at least we thought so who were isolated on the Keys—and the arrival of a boat with supplies and mail once or twice a week was an event greater by far than train time in a country village.",
+     "note": "Thacher's figure of 5,000 or 6,000 men at a time is the highest in the sources; others give 1,600 to 4,000 (module 4)."
+    }
+   ]
+  },
+  {
+   "id": "sea",
+   "zk": "Sea",
+   "titel": "Salt water, steel and rust, 1912",
+   "blurb": "What the sea did to the finished work, as Patterson reported it to railway officers in the year of the opening: the concrete scaled, the steel rusted faster than any paint could stop it.",
+   "units": [
+    {
+     "n": 18,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1039",
+     "titel": "Not a life was lost",
+     "en": "The erection of the girders at Knight's Key was begun by contract, but was taken over by the railway after a comparatively small part had been erected, and the remainder was completed by the construction department. The erection was begun by derrick car, but after the company's forces assumed charge the work was done by means of floating derricks and much faster progress was made, at one time six spans being set in place in four hours, and at another one span being erected in 20 minutes. Bahia Honda bridge consists of 13 spans of 128 ft. 6 in., 13 spans of 186 ft., 1 span of 247 ft. 6 in., and 9 plate girders of 80 ft. span. The steel work was erected by the company's forces, using false work and overhead traveler, and it is interesting to note that not a life was lost in the erection of either the Knight's Key or the Bahia Honda bridge.",
+     "note": "In the hurricane of 11 October 1909 spans of the Knight's Key bridge were blown from their piers; the railway's vice-president J. P. Beckwith stated \"Positively not a life was lost in the storm\", while the Weather Bureau's observer at Jacksonville reported \"about one dozen\" drowned aboard a tugboat (Monthly Weather Review, October 1909; module 5)."
+    },
+    {
+     "n": 19,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1039",
+     "titel": "Rust",
+     "en": "The protection of the steel spans from rust is one of the hardest problems facing the railway. In the warm, moist, salty air corrosion begins in an almost incredibly short time and no paint has been obtained that can be considered wholly satisfactory. Near the constructing engineer's office at Marathon a test rack is located in which are placed test plates coated with different paints, and so far none has been found that will afford protection for two years. The railway company's standard paint has proved about as efficient as any and on account of its bright yellow color corrosion is quickly detected.",
+     "note": "The paragraph continues on the next page; it is carried here as far as p. 1039."
+    },
+    {
+     "n": 20,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1039",
+     "titel": "Scaling between the tides",
+     "en": "The effect of sea water on the concrete has been closely watched, both in the actual structures and on test cubes exposed for observation, and so far there is no reason to believe that any serious deterioration will take place. Shortly after being exposed to the water it is found that a scaling off occurs to a depth of about 1/16 in. on the part of the concrete between the limits of high and low tide which amounts only to about 18 in. After the scaling off has taken place a marine growth forms on the parts exposed to the water and seems to protect the concrete from further damage."
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "zk": "Water",
+   "titel": "Two and a half gallons a day",
+   "blurb": "There was no fresh water on the keys. Every gallon for cooking and drinking came by boat, from 1907 by tank car, from the Everglades. Thacher kept a record at his camp.",
+   "units": [
+    {
+     "n": 21,
+     "pg": "Eng. Record 56 (1907), p. 560",
+     "titel": "Water from the Everglades",
+     "en": "The camp provided was in a picturesque grove of cocoanut trees on the Southwest end of Long Key, formerly known as one of the worst places for mosquitoes on the Keys, but converted by clearing and some draining into a delightful spot. The land is but slightly above mean high water, and at times portions of it have been overflowed; but it has been kept in perfect sanitary condition, and no sickness has been known to originate there. Water for domestic use is brought from the Everglades, and is most pure and wholesome. Before railway communication was established in October, 1907, water, like everything else, was brought by boat, but now it is brought in tank cars. A well organized subsistence department, with headquarters in Miami, supervises the issue of food supplies over the whole of the road and procures the necessary skilled help in that department. At Long Key there is a bakery with a capacity of one thousand loaves of bread a day.",
+     "note": "\"At times portions of it have been overflowed\": the camp lay a few feet above high water."
+    },
+    {
+     "n": 22,
+     "pg": "Eng. Assoc. South XXII (1911), p. 78",
+     "titel": "No fresh water for bathing",
+     "en": "Each camp, dredge or houseboat, as the case might be, was provided with a very complete supply of medicines, bandages, etc., to be used as a sort of first aid. The one or two men found most capable for the work did the doctoring for the camp. The company physician made the rounds of the camps once a month, or oftener if necessary. Any patients who could not be properly treated in camp were sent to the well-provided company hospital in Miami and cared for without charge. As a whole, there was very little sickness, and the health of all the men on the Keys was remarkable in that almost tropical climate. Bathing in the salt water could be indulged in every day of the year, so that there was no excuse for uncleanliness. No fresh water was allowed for bathing purposes, and a good fresh-water bath on reaching civilization was a luxury indeed.",
+     "note": "Treatment at the Miami hospital was free; the hospital was paid for by the fares of men returning from the keys (Spooner, Railroad Gazette 1907; module 4)."
+    },
+    {
+     "n": 23,
+     "pg": "Eng. Assoc. South XXII (1911), p. 78",
+     "titel": "2.52 gallons per man per day",
+     "en": "How little fresh water is absolutely required for cooking and drinking is shown by a record of water consumption kept by the writer at Camp No. 5. This record shows an average of 2.52 gallons per man per day, as compared with the average of American cities for domestic use alone of 20 gallons, and for total uses from 50 to 75 gallons per day. It makes a great difference, however, whether the water can be drawn from a faucet in kitchen or bathroom, or whether it has to be \"toted\" from 50 to 75 miles by boat. The day in camp was begun with rising at 5 A.M.; breakfast, 5:30 A.M.; work, 6 to 11 A.M.; noon hour, 11 A.M. to 12 M.; work, 12 M. to 5 P.M.",
+     "note": "Camp No. 5 was on Lower Matecumbe Key (Thacher, p. 74). The figure is the one the companion game uses for the water a camp needs."
+    },
+    {
+     "n": 24,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1042",
+     "titel": "The water train",
+     "en": "The freight trains consist of one through freight, one way freight and one water train, the water for the entire extension being hauled from Everglade on the main land where a pumping plant and storage tanks are maintained. The water is hauled in cypress tanks of 3,000 gal. capacity erected on flat cars, each car holding two tanks. These cars are set out at water stations and construction camps as needed. The water is the surface water of the Everglades and is remarkably pure and soft, having but a small amount of lime."
+    }
+   ]
+  }
+ ]
+}

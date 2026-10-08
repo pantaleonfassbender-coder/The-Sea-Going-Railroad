@@ -32,8 +32,8 @@
    "d": "October 1906",
    "side": "weather",
    "titel": "The quarterboats are carried out to sea",
-   "text": "A hurricane tears the workers' quarterboats from their moorings. The Weather Bureau's offices report the dead as 'probably more than 100', 'about 135' and '124'; forty-nine men are picked up by the Austrian steamer Jenny.",
-   "src": "Monthly Weather Review 34 (October 1906), pp. 479–480"
+   "text": "A hurricane tears the workers' quarterboats from their moorings. The Weather Bureau's offices report the dead as 'probably more than 100', 'about 135' and '124'; forty-nine men are picked up by the Austrian steamer Jenny. On the Long Key viaduct all cofferdams and falsework are demolished; the piers stand.",
+   "src": "Monthly Weather Review 34 (October 1906), pp. 479–480; Venable, Engineering Record 56 (1907), p. 558"
   },
   {
    "d": "April 1907",
@@ -41,6 +41,15 @@
    "titel": "2,800 men on the keys",
    "text": "About 2,800 labourers are at work, four-fifths of them white. They are recruited in New York, Philadelphia and Boston; the fare south is deducted from their wages, and about one in four deserts on the way.",
    "src": "F. E. Spooner, Railroad Gazette 42 (26 April 1907)"
+  },
+  {
+   "d": "October 1907",
+   "side": "company",
+   "titel": "Rail reaches Long Key",
+   "text": "Railway communication reaches the Long Key viaduct camp; water for drinking and cooking, brought from the Everglades by boat until then, now comes in tank cars. At Thacher's camp a man used 2.52 gallons a day.",
+   "cite": "#/text/arches/water/21",
+   "citeLabel": "Water [21]",
+   "plate": "archcenter1906"
   },
   {
    "d": "November 1908",

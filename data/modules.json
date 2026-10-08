@@ -7,15 +7,17 @@
    "kurz": "1. The plan and the first year, 1904–1906",
    "zk": "Plan",
    "warum": "Why Key West: a deep harbour, a car ferry to Havana and the Panama Canal (Scientific American, February 1905; the company's booklet of 1912 with Flagler's \"go ahead\"). The line as planned in October 1905: rock embankment where the water was shallow, concrete arches where the sea came through the reef, four quarter boats among the floating plant (Railroad Gazette). The first year as Harry C. Smith saw it in 1906: Black and white workers in separate camps, complaints that reached the courts, a strike at Key West, every drop of water brought by lighter. And what the company promised in 1912: a line \"of practically storm-proof construction\" and a viaduct that would \"endure throughout the ages\"."
+  },
+  {
+   "id": "arches",
+   "datei": "arches",
+   "side": "company",
+   "kurz": "2. Arches or fill: how the line was built, 1905–1912",
+   "zk": "Arches",
+   "warum": "No contractor would bid, so the railway built the line itself with a floating plant: stone from New York, gravel from Mobile, cement from Germany and New Jersey, water from the Everglades. Carver (1906) and Venable (1907) on the concrete arches, the quarter boats of 150 men each and the piers that stood through the storm of 1906; Thacher (1911) on the fills between the keys, of which 'a single storm would wash away the work of weeks', and on the 2.52 gallons of water a man used per day; Patterson (1912) on rust, scaling concrete and a bridge built without the loss of a life."
   }
  ],
  "planned": [
-  {
-   "id": "arches",
-   "side": "company",
-   "kurz": "2. Arches or fill: how the line was built",
-   "warum": "The concrete viaducts and the steel spans, German cement for the work below high tide, floating equipment instead of contractors, fresh water brought by barge and tank car at about two and a half gallons per man per day. Carver and Venable in the Engineering Record (1906, 1907), Carver in Engineering News (1907), Thacher (1911)."
-  },
   {
    "id": "storm1906",
    "side": "weather",
