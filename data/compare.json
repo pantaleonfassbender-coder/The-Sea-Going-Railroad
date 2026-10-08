@@ -60,6 +60,37 @@
      ]
     }
    ]
+  },
+  {
+   "id": "held1908",
+   "titel": "Were the men held against their will?",
+   "frage": "Locked trains and beatings, a job any man could leave, or 'some coercion'?",
+   "note": "The prosecutor in 1908 described locked trains, armed guards, a fire hose and beatings, from the men's letters. Spooner in 1907, travelling with the railway's engineers, quoted a worker who said any man could leave by refusing to work, and traced the stories to the chain gang. The Immigration Commission, visiting in 1909, found 'some coercion' in the early camps, foremen dismissed for it, and no legal proof of peonage. The law in force punished forced labour only when it was tied to a debt.",
+   "voices": [
+    {
+     "text": "labour",
+     "sec": "trial",
+     "n": [
+      12
+     ]
+    },
+    {
+     "text": "labour",
+     "sec": "chain",
+     "n": [
+      9,
+      10
+     ]
+    },
+    {
+     "text": "labour",
+     "sec": "commission",
+     "n": [
+      15,
+      16
+     ]
+    }
+   ]
   }
  ]
 }

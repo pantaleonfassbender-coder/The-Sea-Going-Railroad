@@ -23,15 +23,17 @@
    "kurz": "3. The quarterboats and the storm of October 1906",
    "zk": "Storm 1906",
    "warum": "The warning ordered at Key West before noon on 17 October, the houseboats torn from their moorings at Long Key in the night, and the survivors' account of houseboat No. 4 (Associated Press, 22 October). Then the counting: 'probably more than 100', 'about 135' and 124 in one article of the Monthly Weather Review, 146 missing in the railway's own despatch, 'over 70' in the railway press of 1912 and 'many hundreds' in the Weather Bureau's report of 1909. Two comparisons set the figures and the question of the warnings side by side."
+  },
+  {
+   "id": "labour",
+   "datei": "labour",
+   "side": "labour",
+   "kurz": "4. Recruited in New York: wages, deductions, the chain gang and the peonage trial",
+   "zk": "Labour",
+   "warum": "Who came to work and on what terms: $35 to $45 a month, the $10 fare and $2 board deducted from the first month's pay, a quarter of the recruits lost on the way, Black workers in tents and white workers on the boats (Spooner 1907). The railway's engineers on the men they hired (Thacher 1911, Patterson 1912). The company's explanation of the peonage stories: the chain gang. The prosecution's case in the federal court at New York in November 1908 (Associated Press), the directed verdict (Patterson), and the Immigration Commission's finding of 'some coercion' and no legal proof (1911)."
   }
  ],
  "planned": [
-  {
-   "id": "labour",
-   "side": "labour",
-   "kurz": "4. Recruited in New York: wages, deductions, the chain gang and the peonage trial",
-   "warum": "Labour agents paid by the head, the fare deducted from the first month's wages, a quarter of the recruits lost on the way, the company hospital at Miami paid for by the men's return fares. Spooner in the Railroad Gazette (1907), the trial in the federal court in New York (1908) and its acquittal, the Immigration Commission's visit to every camp in 1909, and the chain gang that the company said explained the stories."
-  },
   {
    "id": "storms1909",
    "side": "weather",
