@@ -71,7 +71,7 @@ function overview() {
     <div class="panel"><h3>"An act of God"?</h3>
       <p>The report to the President of 8 September 1935 found that no one was to blame for the deaths of the veterans in the camps on the keys. The hearings of 1936 asked about the warnings, the rescue train that left Miami at twenty-five past four in the afternoon, and who had decided that the men should stay. The companion game takes its title from that report.</p></div>
     <div class="panel"><h3>Can it be played?</h3>
-      <p>The companion game <a href="https://an-act-of-god.netlify.app/" target="_blank" rel="noopener"><em>An Act of God</em></a> is in preparation: as the line's engineers, season by season from 1905 to 1912, you decide how it is built and who carries the risk, and 1935 shows what your choices left standing. Every card will link back to its passage here.</p></div>
+      <p>The companion game <a href="https://an-act-of-god.netlify.app/" target="_blank" rel="noopener"><em>An Act of God</em></a> (prototype 0): as the line's engineers, season by season from 1905 to 1912, you decide how it is built, how the men are recruited, where they live and what you do when the Weather Bureau warns; 1935 shows what your choices left standing. Every card links back to its passage here.</p></div>
   </div>`;
 }
 function plannedCard(m) {

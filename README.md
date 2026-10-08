@@ -22,7 +22,7 @@ A **Compare** page sets the sources side by side on six questions (the dead of 1
 
 Figures are given as each source gives them; where the sources disagree, the apparatus says so and does not choose. The workers speak in these sources only through others. Photographs of the dead of 1935 are not shown. What is **not carried**, and why, is listed on the Texts page (`data/modules.json`, key `missing`).
 
-The companion game, *An Act of God* (in preparation): https://an-act-of-god.netlify.app/
+The companion game, *An Act of God* (prototype 0): https://an-act-of-god.netlify.app/
 
 ## Files
 
