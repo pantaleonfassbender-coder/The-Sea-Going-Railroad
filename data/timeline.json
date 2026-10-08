@@ -6,7 +6,27 @@
    "side": "company",
    "titel": "A chief constructing engineer",
    "text": "Joseph Carroll Meredith takes up his duty as chief constructing engineer of the extension. Work on the keys begins in April 1905 under his charge.",
-   "src": "Florida East Coast Railway, Key West Extension … opened January 22, 1912 (1912)"
+   "src": "Florida East Coast Railway, Key West Extension … opened January 22, 1912 (1912)",
+   "cite": "#/text/plan/engineers/21",
+   "citeLabel": "Engineers [21]"
+  },
+  {
+   "d": "18 February 1905",
+   "side": "company",
+   "titel": "The plan announced",
+   "text": "Scientific American reports that the railway's engineers have completed plans and surveys for a line to Key West over the keys: a harbour 33 feet deep, a car ferry to Havana, and the port nearest the Panama Canal.",
+   "cite": "#/text/plan/why/3",
+   "citeLabel": "Why [3]",
+   "plate": "map1905"
+  },
+  {
+   "d": "Winter 1905–1906",
+   "side": "labour",
+   "titel": "A strike at Key West",
+   "text": "Men at the camp on the east end of Key West strike and march to the city hall to demand food. The town feeds them for two days; the business men force them back to work, and a few serve terms as vagrants on the streets.",
+   "cite": "#/text/plan/first/18",
+   "citeLabel": "First year [18]",
+   "plate": "quarterboat1912"
   },
   {
    "d": "October 1906",
@@ -54,9 +74,11 @@
    "d": "22 January 1912",
    "side": "keys",
    "titel": "The first train at Key West",
-   "text": "Flagler's train arrives at Key West over the sea. The line from Homestead is 128.4 miles long, with 17.2 miles of bridges.",
+   "text": "Flagler's train arrives at Key West over the sea. The company's booklet puts the line at 128.4 miles from Homestead, with 17.2 miles of bridges, and calls it 'of practically storm-proof construction'.",
    "src": "Key West Extension … opened January 22, 1912 (1912)",
-   "plate": "arrival1912"
+   "plate": "arrival1912",
+   "cite": "#/text/plan/promise/27",
+   "citeLabel": "Promise [27]"
   },
   {
    "d": "1 September 1931",

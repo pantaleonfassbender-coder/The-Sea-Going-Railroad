@@ -4,6 +4,8 @@ Two kinds of source:
 - Wikimedia Commons: the file page must carry a public-domain or CC0 licence template (checked here).
 - A federal item page outside Commons (USGS ScienceBase): its rights field must say the item is in the
   U.S. public domain (checked here).
+- A page of a scanned book or journal on archive.org: its catalogue date must be before 1931, i.e. an American
+  publication in the public domain (checked here); the illustration is cut from the page image.
 Run from the repository root:  python tools/make-plates.py      (--meta prints Commons date/author/credit)
 """
 import io
@@ -26,7 +28,7 @@ CREDIT = ("Plates: public-domain images from Wikimedia Commons (the licence chec
           "U.S. Geological Survey's photographic library (a federal work in the public domain), each named in its "
           "caption with the original. Resized for this site.")
 
-# id, source ("commons:<file>" or "sciencebase:<item id>"), title, side, caption[, crop as fractions l, t, r, b]
+# id, source ("commons:<file>", "sciencebase:<item id>" or "archive:<item>:<page image n>"), title, side, caption[, crop as fractions l, t, r, b]
 PLATES = [
     ("vaughan1908", "sciencebase:51ddc69be4b0f72b4472100b",
      "The arches on Long Key, 1908", "company",
@@ -40,6 +42,14 @@ PLATES = [
     ("pier1914", "commons:NSRW Florida Keys Railroad - building pier.jpg",
      "Building a pier", "labour",
      "From The New Student's Reference Work (1914): a reinforced concrete pier in its cofferdam, the work that the storms of 1906 and 1909 swept away and that had to be begun again."),
+    ("map1905", "archive:sim_railway-age_1905-10-06_39_14:15",
+     "The projected line, 1905", "company",
+     "'Map of Florida Keys Showing Projected Extension of the Florida East Coast to Key West', The Railroad Gazette, 6 October 1905, p. 324: the line from Homestead across Key Largo and down the keys, 'completed line' and 'proposed line', six months after work began.",
+     (0.10, 0.41, 0.90, 0.605)),
+    ("quarterboat1912", "archive:keywestextension00flor:17",
+     "A floating camp or quarterboat", "labour",
+     "'Floating camp or quarterboat': photograph from the railway's booklet for the opening, 1912. The men building the viaducts lived on such boats, moored behind the keys; in October 1906 a hurricane carried them out to sea.",
+     (0.155, 0.352, 0.94, 0.604)),
     ("arrival1912", "commons:Arrival of first train at Key West, Fla., over sea, Florida East Coast R. R., Jan. 22, (19)12 LCCN2007660721.tif",
      "The first train at Key West, 22 January 1912", "keys",
      "'Arrival of first train at Key West, Fla., over sea, Florida East Coast R. R., Jan. 22, 1912': panoramic photograph, Library of Congress, cut from its mount. The company's booklet of the same year puts the line at 128.4 miles from Homestead.",
@@ -96,12 +106,23 @@ def sciencebase(item, meta):
     return f["url"], f"U.S. Geological Survey Photographic Library, {f['name'].split('.')[0]}, ScienceBase item {item} (https://www.sciencebase.gov/catalog/item/{item}); U.S. public domain"
 
 
+def archive(ref, meta):
+    item, leaf = ref.rsplit(":", 1)
+    md = json.loads(get(f"https://archive.org/metadata/{item}"))["metadata"]
+    year = int(str(md.get("date", "9999"))[:4])
+    assert year < 1931, f"archive.org item not before 1931: {item} ({md.get('date')})"
+    if meta:
+        print("   title:", md.get("title"), "| date:", md.get("date"))
+    return (f"https://archive.org/download/{item}/page/n{leaf}_w2400.jpg",
+            f"{md.get('title')} ({md.get('date')}), page image n{leaf}, archive.org {item} (https://archive.org/details/{item}/page/n{leaf}); published in the United States before 1931, public domain")
+
+
 def main(meta=False):
     OUT.mkdir(parents=True, exist_ok=True)
     plates = []
     for pid, src, title, side, caption, *crop in PLATES:
         kind, ref = src.split(":", 1)
-        url, source = (commons if kind == "commons" else sciencebase)(ref, meta)
+        url, source = {"commons": commons, "sciencebase": sciencebase, "archive": archive}[kind](ref, meta)
         dest = OUT / f"{pid}.jpg"
         if not dest.exists():
             im = Image.open(io.BytesIO(get(url))).convert("RGB")

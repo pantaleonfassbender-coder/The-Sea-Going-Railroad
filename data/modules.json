@@ -1,12 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "plan",
+   "datei": "plan",
    "side": "company",
-   "kurz": "1. The plan and the line, 1904–1905",
-   "warum": "Why Key West, and how: the company's own account of 1912, the chief constructing engineer Joseph C. Meredith from 22 July 1904, the work begun in April 1905, the route of 128.4 miles from Homestead with 17.2 miles of bridges. The engineering press of 1905 and 1906 on the plan."
-  },
+   "kurz": "1. The plan and the first year, 1904–1906",
+   "zk": "Plan",
+   "warum": "Why Key West: a deep harbour, a car ferry to Havana and the Panama Canal (Scientific American, February 1905; the company's booklet of 1912 with Flagler's \"go ahead\"). The line as planned in October 1905: rock embankment where the water was shallow, concrete arches where the sea came through the reef, four quarter boats among the floating plant (Railroad Gazette). The first year as Harry C. Smith saw it in 1906: Black and white workers in separate camps, complaints that reached the courts, a strike at Key West, every drop of water brought by lighter. And what the company promised in 1912: a line \"of practically storm-proof construction\" and a viaduct that would \"endure throughout the ages\"."
+  }
+ ],
+ "planned": [
   {
    "id": "arches",
    "side": "company",
