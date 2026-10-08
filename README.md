@@ -1,5 +1,7 @@
 # The Sea-Going Railroad
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23245854.svg)](https://doi.org/10.5281/zenodo.23245854)
+
 A documentary apparatus for the Florida East Coast Railway's extension across the Florida Keys to Key West: its building from 1905 to 1912, the hurricanes of 1906, 1909 and 1910, the recruiting of its labour and the peonage trial of 1908, its years of running at a loss, the Labor Day hurricane of 2 September 1935, and the Overseas Highway built on its piers in 1938.
 
 Its question is who carried the risk of the work: the men on the quarterboats, the recruits whose fare was deducted from their wages, the company that never made the line pay, and the war veterans in the relief camps on the keys in 1935. The title is that of Chester C. Pope's account of the opening (1912).
@@ -48,6 +50,6 @@ Any static server, e.g. `python -m http.server 8970`.
 
 ## Citation
 
-Fassbender, Pantaleon. *The Sea-Going Railroad: A Documentary Apparatus.* 2026. Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *The Sea-Going Railroad: A Documentary Apparatus.* 2026. https://doi.org/10.5281/zenodo.23245854 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23245855). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 Code: MIT. Editions of public-domain texts: CC0. Editorial matter: CC BY 4.0. See `LICENSES.md`.
