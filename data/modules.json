@@ -39,15 +39,17 @@
    "kurz": "5. 1909, 1910, and Key West, 22 January 1912",
    "zk": "1909–1912",
    "warum": "The hurricane of 11 October 1909: warnings by telephone, 3,000 men withdrawn, 'positively not a life was lost' against 'about one dozen' and 'did not exceed thirteen', and at Knight's Key men lying flat on the track holding to the rails while the water rose seven feet (Engineering Record 1910). The hurricane of 1910 with 1,500 men and no deaths. The discovery that storms pile the Gulf into the Bay of Florida until it overtops the fills, and the decision for five to six more miles of arches (Patterson 1912). And the opening at Key West on 22 January 1912: fifteen thousand people, the Congressional Special, and Flagler's promise of fifty thousand inhabitants in ten years (Pope 1912)."
+  },
+  {
+   "id": "loss",
+   "datei": "loss",
+   "side": "keys",
+   "kurz": "6. Running at a loss, 1912–1935",
+   "zk": "Loss",
+   "warum": "'Will it pay?' asked the railway press in 1912: two passenger and three freight trains a day, the shortest haul to Cuba and the canal, and a railway owned by one man (Patterson). What the Interstate Commerce Commission recorded in 1936: a line built for Cuba, a car ferry from 1915, a cost of $27,984,675, local traffic that 'never was important', 12,831 people in Key West in 1930, one passenger train a day, and deficits in every year from 1930 to 1935. And the railway's default and receivership from 1 September 1931. A comparison sets Flagler's promise against the figures."
   }
  ],
  "planned": [
-  {
-   "id": "loss",
-   "side": "keys",
-   "kurz": "6. Running at a loss, 1912–1935",
-   "warum": "One passenger train a day, a freight twice a week, the car ferry to Havana, and the figures the Interstate Commerce Commission set down in 1936: falling traffic, yearly deficits, damage from four hurricanes in twenty-three years, and the railway's default and receivership from 1931."
-  },
   {
    "id": "act",
    "side": "state",

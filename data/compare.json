@@ -91,6 +91,36 @@
      ]
     }
    ]
+  },
+  {
+   "id": "pay",
+   "titel": "Did it pay?",
+   "frage": "Flagler's confidence in 1912 and the railway's own figures in 1936.",
+   "note": "In 1912 the railway press reported that Flagler thought the line would pay, and Flagler told Key West it would have fifty thousand inhabitants in ten years. In 1936 the railway told the Interstate Commerce Commission that local traffic had never been important, that Key West had 12,831 inhabitants in 1930, and that the extension had run at a deficit in every year it showed. The reasons it gave were the loss of the two things the line was built for: Cuba's trade and the want of deep harbours on the mainland.",
+   "voices": [
+    {
+     "text": "storms1909",
+     "sec": "opening",
+     "n": [
+      15
+     ]
+    },
+    {
+     "text": "loss",
+     "sec": "prospect",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "loss",
+     "sec": "decline",
+     "n": [
+      6,
+      8
+     ]
+    }
+   ]
   }
  ]
 }

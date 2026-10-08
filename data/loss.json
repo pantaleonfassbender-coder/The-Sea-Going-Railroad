@@ -1,0 +1,117 @@
+{
+ "titel": "Running at a loss, 1912–1935",
+ "autor": "Frank M. Patterson in the Railway Age Gazette (1912); the Interstate Commerce Commission (1936, 1939)",
+ "jahr": "1912–1939",
+ "quelle": "Frank M. Patterson, \"The Florida East Coast Extension,\" Railway Age Gazette 52:19 (10 May 1912), pp. 1042–1043 (archive.org sim_railway-age_1912-05-10_52_19); Florida East Coast Ry. Co. Abandonment, 217 I.C.C. 325 (decided 26 Sept. 1936), pp. 325–327; Florida East Coast Ry. Co. v. Atlantic Coast Line R. Co., 235 I.C.C. 211 (1939), p. 215 (Interstate Commerce Commission Reports, Google Books ids lAYXAQAAMAAJ and RC0XAQAAMAAJ). Public domain: published in the United States before 1931, and federal publications.",
+ "hinweis": "Every passage was read against the page image; the decisions of the Interstate Commerce Commission were read in the page images of the Google scan, not in Google's text layer, which inserts an omission mark on p. 330 that the printing does not have. The figures of 1930–1935 are those the railway presented to obtain permission to abandon the line; the Commission accepted them, and the only protestant did not question them.",
+ "sections": [
+  {
+   "id": "prospect",
+   "zk": "Prospect",
+   "titel": "\"Will it pay?\" 1912",
+   "blurb": "In the year of the opening the railway trade press asked the question and answered it with Flagler's confidence: the shortest haul to Cuba, the canal and South America, and a railway owned by one man.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1042",
+     "titel": "The Oversea Limited",
+     "en": "Train service as scheduled provides two passenger trains and three freight trains each way daily except Sunday. One of the passenger trains is the \"Oversea Limited,\" a solid Pullman train running between New York and Key West during the tourist season, and the other is a local from Jacksonville. The freight trains consist of one through freight, one way freight and one water train, the water for the entire extension being hauled from Everglade on the main land where a pumping plant and storage tanks are maintained.",
+     "note": "In 1912 two passenger trains and three freight trains each way, daily except Sunday. By 1935: one passenger train a day and a freight twice a week ([7])."
+    },
+    {
+     "n": 2,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1043",
+     "titel": "Will it pay?",
+     "en": "The question has been asked, \"Will it pay?\" and the reply, whatever it may be is sure to start a discussion. Mr. Flagler thinks it will, backing his judgment with plenty of money, and his judgment in business matters in the past has shown itself to be sound. If there is any advantage in having a railway terminus insuring the shortest haul by vessel the Florida East Coast has that advantage, for business with the West Indies, Central America, the Panama canal and South America, and especially with Cuba, in the possibilities of through car shipments. Local traffic on the extension is small at present, but there are possibilities of increase, as the upper keys are well adapted for growing citrus fruits and afford excellent facilities during the winter months for yachting and fishing."
+    },
+    {
+     "n": 3,
+     "pg": "Ry. Age Gazette 52 (1912), p. 1043",
+     "titel": "One owner",
+     "en": "If in the foregoing Mr. Flagler and the railway company have been used synonymously it has not been through inadvertence nor for sentimental reasons. The railway has an authorized capital of $5,000,000 of which Mr. Flagler is the sole owner of the $3,000,000 outstanding stock and has agreed to purchase the remaining $2,000,000 for the purpose of completing the road to Key West. There have been issued $10,000,000 of 4½ per cent. first mortgage bonds, out of an authorized total of $12,000,000, and $20,000,000 of general mortgage income bonds, out of an authorized total of $25,000,000. The latter bonds are entitled to interest up to 5 per cent. from earnings after operating expenses, taxes and interest on the first mortgage bonds have been deducted. In the year 1910 the interest paid on this issue was 3½ per cent.",
+     "note": "The risk of the line was one man's capital and the railway's bonds. Flagler died in 1913; the railway defaulted on its second-mortgage interest in 1931 ([10])."
+    }
+   ]
+  },
+  {
+   "id": "cuba",
+   "zk": "Cuba",
+   "titel": "Built for Cuba",
+   "blurb": "How the Interstate Commerce Commission summed up the extension's history and cost in 1936, when the railway asked to abandon it.",
+   "units": [
+    {
+     "n": 4,
+     "pg": "217 I.C.C. 325 (1936), p. 325",
+     "titel": "The only harbor with deep water",
+     "en": "The Florida East Coast Railway was completed into Miami in 1896. Because of difficulties encountered in attempting to develop deep-water harbor facilities at that point, it was then decided to extend the line to Key West, the only harbor with deep water available at that time. Construction was commenced in 1905. In 1908 the extension was opened for operation to Knights Key dock, near the present station of Marathon, and steamship service between that point and Havana established. The extension was completed into Key West in January 1912, at which time the steamship service from Knights Key was transferred to Key West. In 1915 the railroad company established car-ferry service between Key West and Havana, thereby making it possible for the first time to forward and receive freight in carload lots without breaking bulk. In 1917 this operation was taken over by the Florida East Coast Railway Car Ferry Company, an independently operated organization although it has officers in common with the railway company and both companies are controlled by the same interests.",
+     "note": "The car ferry the plan of 1905 had promised (module 1 [3]) came three years after the opening."
+    },
+    {
+     "n": 5,
+     "pg": "217 I.C.C. 325 (1936), p. 326",
+     "titel": "$27,984,675",
+     "en": "A general description of the extension is set forth in Florida East Coast Ry. Co., 84 I. C. C. 25, 30, and 65. In that case the final value for rate-making purposes of the carrier owned and used property was found to be $46,200,000 as of June 30, 1916. The main line from Jacksonville to Key West was 522 miles. The original cost of the extension, plus additions and betterments, was shown as $27,984,675 as of June 30, 1916, and cost of reproduction new, as of the same date, was given as $26,666,940. Subsequent additions and betterments to the extension are stated in the instant proceeding as $2,698,264.",
+     "note": "In 1911 Thacher gave the total estimated cost as $12,000,000, or $95,000 a mile (Engineering Association of the South XXII, p. 79)."
+    }
+   ]
+  },
+  {
+   "id": "decline",
+   "zk": "Decline",
+   "titel": "Traffic and deficits, 1930–1935",
+   "blurb": "The figures the railway laid before the Commission in 1936: a city of 12,831, falling traffic, revenues that no longer covered the cost of running the line, and the damage of four hurricanes in twenty-three years.",
+   "units": [
+    {
+     "n": 6,
+     "pg": "217 I.C.C. 325 (1936), p. 326–327",
+     "titel": "Local traffic never was important",
+     "en": "The extension was built primarily for the handling of traffic to and from Cuba, and Key West became the preferred gateway for such traffic. Local traffic never was important. Of the 27 stations, 3 were agency stations. In 1930 the population of Key West was 12,831 and the population of the other islands and keys was 473. Carloads of freight handled between points on the extension and points beyond it during the years 1930 to 1934, inclusive, and during the first eight months of 1935, were, in order, 1,416, 1,187, 1,052, 708, 989, and 973. The number of passengers transported ranged from 69,748 in 1930 to 44,574 in 1932, and in the first eight months of 1935 was 51,698. Bridge or overhead traffic decreased from 12,457 carloads in 1930 to 2,757 in 1933. In 1934 it increased to 3,462 carloads and in the first eight months of 1935 amounted to 2,868.",
+     "note": "Flagler had promised Key West fifty thousand inhabitants within ten years of 1912 (module 5 [15]); the census of 1930 counted 12,831."
+    },
+    {
+     "n": 7,
+     "pg": "217 I.C.C. 325 (1936), p. 326",
+     "titel": "One passenger train a day",
+     "en": "On September 2, 1935, a considerable portion of the roadbed and track between milepost 430 on Key Largo and milepost 470 on Key Vaca was destroyed by a tropical storm. Since that date there has been no railroad service to Key West. Theretofore service on the line consisted of one passenger train in each direction daily, and one freight train in each direction twice a week.",
+     "note": "The storm of 1935 is module 7; here the service it ended."
+    },
+    {
+     "n": 8,
+     "pg": "217 I.C.C. 325 (1936), p. 327",
+     "titel": "Net railway operating deficits",
+     "en": "Total operating revenues from traffic moving between points on the extension and points on other lines of the Florida East Coast ranged from a high of $401,249 in 1930 to a low of $212,362 in 1933. In 1934 they increased to $259,135, and for the first eight months of 1935 they were $218,556. These revenues were the entire system revenues, except as to certain minor items which were computed on reasonable bases. By crediting to the extension the entire revenues from local traffic, and revenues on a prorate-mileage basis on all other traffic, including bridge traffic, the applicants show railway operating revenues for the years 1930 to 1934, inclusive, and for the first eight months of 1935 as follows: $906,003, $623,110, $421,786, $300,078, $346,048, and $277,251. Deducting therefrom operating expenses computed on various bases, but eliminating therefrom overhead expenses, depreciation of equipment, and other expenses that will continue in the event of abandonment, net railway operating deficits are shown, as follows: $220,226, $241,785, $287,802, $376,185, $357,082, and $254,233. It was testified, however, that the cost of operating the extension and cost of maintenance of way and structures thereon were considerably higher than on the remainder of the system because of the physical location and type of construction used. Damages due to four previous hurricanes in 23 years totaled $1,382,543.",
+     "note": "The railway's own figures, presented to obtain permission to abandon the line. The extension lost money in every year shown, before the storm of 1935."
+    },
+    {
+     "n": 9,
+     "pg": "217 I.C.C. 325 (1936), p. 327",
+     "titel": "Sugar, ports and seatrains",
+     "en": "Considerable evidence was submitted as to the operations of the Florida East Coast in past years, both as to volume of passenger and freight traffic and operating revenues. The reasons for the decrease thereof are given in some detail. They may be summarized generally as follows: Changes in the economic conditions in Cuba, principally because of reduced production of sugar as a result of various enumerated causes; the subsequent development and use of deep-water harbor facilities at Fort Pierce, West Palm Beach, Port Everglades, and Miami; certain rate situations which make it impossible to meet rates of competing services; and the inauguration of competitive seatrain services from New Orleans to Havana and from Hoboken, N. J., to Havana.",
+     "note": "The two reasons for which the line was built, the want of a deep harbour on the mainland and the trade with Cuba, had both gone: the mainland got its deep-water ports, and Cuba's sugar trade fell."
+    }
+   ]
+  },
+  {
+   "id": "default",
+   "zk": "Default",
+   "titel": "Default and receivership, 1931",
+   "blurb": "The railway's finances as the Commission described them in 1939.",
+   "units": [
+    {
+     "n": 10,
+     "pg": "235 I.C.C. 211 (1939), p. 215",
+     "titel": "Forced into receivership",
+     "en": "On September 1, 1931, the Florida East Coast defaulted in the interest on its second-mortgage bonds, and as a result it was forced into receivership. During the 9-year period, 1927 to 1935, it failed by $21,722,420 to meet its fixed charges, and in 1936 it failed by $2,071,631. Its corporate surplus account has fallen from a balance of $17,554,752 at the end of 1929 to a deficit of over $5,000,000 at the end of 1936, or a loss in the surplus account since 1929 of $22,644,111.",
+     "note": "The receivers, William R. Kenan, Jr., and Scott M. Loftin, were the applicants for the abandonment of 1936 (module 7)."
+    },
+    {
+     "n": 11,
+     "pg": "235 I.C.C. 211 (1939), p. 215",
+     "titel": "Practically impossible to secure the funds",
+     "en": "Following the destruction, by hurricane, of about 40 miles of the northern portion of the Key West extension in September 1935, application was made, and authority secured, for the abandonment of the entire extension south of Florida City, some 125 miles. This action was taken because it was found practically impossible to secure the necessary funds for rehabilitation, and also because of the diminishing traffic via Key West. Florida East Coast Ry. Co. Abandonment, 217 I. C. C. 325. The final credit carried to account 701, Investment in Road and Equipment, by reason of this abandonment, was $30,314,380.",
+     "note": "The sum written off for the extension in 1936: $30,314,380."
+    }
+   ]
+  }
+ ]
+}
