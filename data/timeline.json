@@ -80,24 +80,38 @@
    "side": "company",
    "titel": "Meredith dies",
    "text": "The chief constructing engineer dies on duty. William J. Krome completes the work.",
-   "src": "Key West Extension … opened January 22, 1912 (1912)"
+   "src": "Key West Extension … opened January 22, 1912 (1912)",
+   "cite": "#/text/plan/engineers/22",
+   "citeLabel": "Engineers [22]"
   },
   {
    "d": "11 October 1909",
    "side": "weather",
    "titel": "The storm at Knight's Key",
-   "text": "A hurricane strikes the steel bridge under construction at Knight's Key; spans are blown from their piers. The company afterwards decides to build more miles of concrete arches in place of fill.",
-   "src": "Engineering Record 61 (2 April 1910); Railway Age Gazette 52 (1912)"
+   "text": "A hurricane strikes the keys. About 3,000 men are withdrawn after warnings by telephone; at Knight's Key men lie flat on the track holding to the rails, and five steel spans are blown from their piers. The railway reports no deaths, the Weather Bureau's observer about a dozen.",
+   "src": "Monthly Weather Review 37 (1909), pp. 710, 830–831; Engineering Record 61 (1910), p. 398",
+   "cite": "#/text/storms1909/s1909/5",
+   "citeLabel": "1909 [5]",
+   "plate": "moser1912"
+  },
+  {
+   "d": "October 1910",
+   "side": "weather",
+   "titel": "The hurricane of 1910 and the bay",
+   "text": "Another hurricane: about 1,500 men are brought to safety and none dies, but the embankments are washed out. Storms from the south and west had piled the water of the Gulf into the Bay of Florida until it overtopped the fills; the railway decides to build five to six more miles of arches.",
+   "src": "Monthly Weather Review 38 (1910), pp. 1490–1491, 1615; Railway Age Gazette 52 (1912), p. 1040",
+   "cite": "#/text/storms1909/arches/11",
+   "citeLabel": "Arches [11]"
   },
   {
    "d": "22 January 1912",
    "side": "keys",
    "titel": "The first train at Key West",
-   "text": "Flagler's train arrives at Key West over the sea. The company's booklet puts the line at 128.4 miles from Homestead, with 17.2 miles of bridges, and calls it 'of practically storm-proof construction'.",
-   "src": "Key West Extension … opened January 22, 1912 (1912)",
+   "text": "Flagler's train arrives at Key West at 10:43 a.m. before some fifteen thousand people. The company's booklet puts the line at 128.4 miles from Homestead, with 17.2 miles of bridges, and calls it 'of practically storm-proof construction'.",
+   "src": "Pope, Stone & Webster Public Service Journal (1912), p. 163; Key West Extension … opened January 22, 1912 (1912)",
    "plate": "arrival1912",
-   "cite": "#/text/plan/promise/27",
-   "citeLabel": "Promise [27]"
+   "cite": "#/text/storms1909/opening/13",
+   "citeLabel": "Opening [13]"
   },
   {
    "d": "1 September 1931",

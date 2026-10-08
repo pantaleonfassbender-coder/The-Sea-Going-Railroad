@@ -31,15 +31,17 @@
    "kurz": "4. Recruited in New York: wages, deductions, the chain gang and the peonage trial",
    "zk": "Labour",
    "warum": "Who came to work and on what terms: $35 to $45 a month, the $10 fare and $2 board deducted from the first month's pay, a quarter of the recruits lost on the way, Black workers in tents and white workers on the boats (Spooner 1907). The railway's engineers on the men they hired (Thacher 1911, Patterson 1912). The company's explanation of the peonage stories: the chain gang. The prosecution's case in the federal court at New York in November 1908 (Associated Press), the directed verdict (Patterson), and the Immigration Commission's finding of 'some coercion' and no legal proof (1911)."
+  },
+  {
+   "id": "storms1909",
+   "datei": "storms1909",
+   "side": "weather",
+   "kurz": "5. 1909, 1910, and Key West, 22 January 1912",
+   "zk": "1909–1912",
+   "warum": "The hurricane of 11 October 1909: warnings by telephone, 3,000 men withdrawn, 'positively not a life was lost' against 'about one dozen' and 'did not exceed thirteen', and at Knight's Key men lying flat on the track holding to the rails while the water rose seven feet (Engineering Record 1910). The hurricane of 1910 with 1,500 men and no deaths. The discovery that storms pile the Gulf into the Bay of Florida until it overtops the fills, and the decision for five to six more miles of arches (Patterson 1912). And the opening at Key West on 22 January 1912: fifteen thousand people, the Congressional Special, and Flagler's promise of fifty thousand inhabitants in ten years (Pope 1912)."
   }
  ],
  "planned": [
-  {
-   "id": "storms1909",
-   "side": "weather",
-   "kurz": "5. 1909, 1910, and Key West, 22 January 1912",
-   "warum": "The hurricane of 11 October 1909 on the Knight's Key bridge, the storm of 1910, the death of Meredith and the decision to build more miles of arches instead of fill. The opening: Flagler's train in Key West, the celebrations, and what the company said the line had cost."
-  },
   {
    "id": "loss",
    "side": "keys",
